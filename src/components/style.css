@@ -1,0 +1,16 @@
+
+
+/* this is styling my input field */
+input{
+    width: 15rem;
+    height: 2rem;
+    border-radius: 12px;
+    outline: none;
+    border-color: blue;
+}
+
+
+/* this is handling the styling of my paragraph */
+p{
+    color: rgb(52, 40, 219);
+}
